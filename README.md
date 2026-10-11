@@ -23,7 +23,7 @@ I'm a full-stack engineer who builds **production business systems end to end**:
 - 🎨 Frontend with **Angular** and TypeScript, fully bilingual (Arabic RTL / English LTR)
 - 🔐 Auth & ops with **Keycloak**, **Docker** and **OpenTelemetry**
 - 🎓 **ITI** (.NET track) · background in **embedded C**
-- 🤝 Workflow: feature branches, pull requests & code review, Conventional Commits, contract tests
+- 🤝 Workflow: feature branches, pull requests & code review, Conventional Commits
 
 ## 🛠️ Tech stack
 
@@ -75,7 +75,7 @@ I'm a full-stack engineer who builds **production business systems end to end**:
 </td>
 <td width="50%" valign="top">
 <h3>💬 WhatsApp Gateway</h3>
-<p>Self-hosted <b>multi-tenant</b> WhatsApp service serving several backends with isolated sessions; Evolution API provider behind a feature flag, covered by contract tests.</p>
+<p>Self-hosted WhatsApp service built on <b>Baileys</b> that serves several backends from one gateway, each isolated to its own sessions. Powers invoice & quotation delivery for the e-invoicing platform.</p>
 <p><img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></p>
 </td>
 </tr>
