@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Java+21+%7C+Spring+Boot+3;C%23+%7C+ASP.NET+Core;React+%7C+Angular+%7C+TypeScript;Building+production+business+systems+end+to+end" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Java+21+%7C+Spring+Boot+3;C%23+%7C+ASP.NET+Core;Angular+%7C+TypeScript;Building+production+business+systems+end+to+end" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ I'm a full-stack engineer who builds **production business systems end to end**:
 
 - 🔭 Currently building SaaS platforms at **MegaDevelopment** — e-invoicing, student transport, scheduling and clinic systems
 - ⚙️ Backend with **Java 21 / Spring Boot 3** and **C# / ASP.NET Core**
-- 🎨 Frontend with **React** and **Angular**, fully bilingual (Arabic RTL / English LTR)
+- 🎨 Frontend with **Angular** and TypeScript, fully bilingual (Arabic RTL / English LTR)
 - 🔐 Auth & ops with **Keycloak**, **Docker** and **OpenTelemetry**
 - 🎓 **ITI** (.NET track) · background in **embedded C**
 - 🤝 Workflow: feature branches, pull requests & code review, Conventional Commits, contract tests
@@ -34,7 +34,7 @@ I'm a full-stack engineer who builds **production business systems end to end**:
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,angular,tailwind,html,css" alt="Frontend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,bootstrap,html,css" alt="Frontend"/></td>
   </tr>
   <tr>
     <td align="center"><b>Data</b></td>
@@ -52,35 +52,102 @@ I'm a full-stack engineer who builds **production business systems end to end**:
 
 ## 💼 Professional work
 
-> Built at [MegaDevelopment](https://github.com/MegaDevelopment) — source code is private.
+<sub>Built at <a href="https://github.com/MegaDevelopment">MegaDevelopment</a> · source code is private</sub>
 
-| Project | What I built | Stack |
-|---|---|---|
-| 🚌 **Student transport platform** | University bus subscriptions, QR-code trip check-in, trip & subscription history with filtering and reporting | Spring Boot 3 · PostgreSQL · MongoDB · Keycloak · Firebase · OpenTelemetry |
-| 🧾 **E-invoicing SaaS (ZATCA)** | Saudi-compliant invoices & quotations, customer management, delivery over WhatsApp & email, landing page | Spring Boot · Angular · PrimeNG · Tailwind · PostgreSQL |
-| 💬 **WhatsApp gateway** | Self-hosted multi-tenant WhatsApp service serving several backends with isolated sessions; Evolution API provider behind a feature flag with contract tests | Node.js · Fastify · Baileys · PostgreSQL · Docker |
-| 🏫 **School scheduling system** | Classes, teachers, subjects and weekly schedules with archiving & soft delete; Keycloak SSO and OpenAPI docs | Spring Boot · PostgreSQL · Keycloak · Docker |
-| 🩺 **Diabetes clinic backend** | Patients, doctors, visits, medical records, prescriptions & medicines; audited history and Excel export | Spring Boot · PostgreSQL · Hibernate Envers · Apache POI |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚌 Student Transport Platform</h3>
+<p>University bus subscriptions with <b>QR-code trip check-in</b>, trip & subscription history, filtering and reporting.</p>
+<p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧾 E-Invoicing SaaS (ZATCA)</h3>
+<p>Saudi-compliant <b>invoices & quotations</b>, customer management, delivery over WhatsApp & email, and the product landing page.</p>
+<p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💬 WhatsApp Gateway</h3>
+<p>Self-hosted <b>multi-tenant</b> WhatsApp service serving several backends with isolated sessions; Evolution API provider behind a feature flag, covered by contract tests.</p>
+<p><img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></p>
+</td>
+<td width="50%" valign="top">
+<h3>🏫 School Scheduling System</h3>
+<p>Classes, teachers, subjects and <b>weekly schedules</b> with archiving & soft delete, Keycloak SSO and OpenAPI docs.</p>
+<p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🩺 Diabetes Clinic Backend</h3>
+<p>Patients, doctors, visits, <b>medical records & prescriptions</b>, with audited history and Excel export.</p>
+<p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/></p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ## 🎓 ITI & personal projects
 
-| Project | What I built | Stack |
-|---|---|---|
-| 🛒 **[Jumia Clone](https://github.com/eslamo98/jumia_clone_ui)** | Multi-vendor marketplace (team project). I built the **seller dashboard** — add / manage products, seller orders — and the customer account pages | Angular 19 · ASP.NET Core 9 · EF Core · SQL Server |
-| 🏬 **[E-commerce API](https://github.com/MohamedBreya/Ecom)** | Online store REST API with layered Clean Architecture (API / Core / Infrastructure) | ASP.NET Core 8 · EF Core · SQL Server · AutoMapper |
-| 💻 **[Tech-Titans Store](https://github.com/ITI-ITP-DotNet-Projects/ITI-CST-E-Commerce-Website-TechTitans)** | Electronics store with customer / seller / admin roles (team project). I built the data models and the product & order services | JavaScript · Bootstrap |
-| 🗓️ **[Attendance System](https://github.com/Ahmed-Reda-elshahawy/Attendance-System)** | Desktop attendance management (team project). I built groups, login, DB connection and the student form | C# · WinForms · SQL Server |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛒 Jumia Clone</h3>
+<p>Multi-vendor marketplace (team project). I built the <b>seller dashboard</b> — add / manage products, seller orders — and the customer account pages.</p>
+<p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/></p><br/><a href="https://github.com/eslamo98/jumia_clone_ui"><sub>🔗 View repo</sub></a>
+</td>
+<td width="50%" valign="top">
+<h3>🏬 E-commerce API</h3>
+<p>Online store REST API with layered <b>Clean Architecture</b> (API / Core / Infrastructure).</p>
+<p><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" alt="C#"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/></p><br/><a href="https://github.com/MohamedBreya/Ecom"><sub>🔗 View repo</sub></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💻 Tech-Titans Store</h3>
+<p>Electronics store with customer / seller / admin roles (team project). I built the <b>data models</b> and the product & order services.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></p><br/><a href="https://github.com/ITI-ITP-DotNet-Projects/ITI-CST-E-Commerce-Website-TechTitans"><sub>🔗 View repo</sub></a>
+</td>
+<td width="50%" valign="top">
+<h3>🗓️ Attendance System</h3>
+<p>Desktop attendance management (team project). I built <b>groups, login</b>, the DB connection and the student form.</p>
+<p><img src="https://img.shields.io/badge/C%23-239120?style=flat-square" alt="C#"/> <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square" alt="WinForms"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/></p><br/><a href="https://github.com/Ahmed-Reda-elshahawy/Attendance-System"><sub>🔗 View repo</sub></a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🔌 Embedded & early projects</b></summary>
 <br/>
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[PIC18F4620 Drivers](https://github.com/MohamedBreya/PIC18F4620)** | Layered driver library: **MCAL** (GPIO, ADC, Timers, CCP, USART, I2C, EEPROM, Interrupts) and **ECU** (LCD, Keypad, 7-Segment, DC Motor, Relay, LED, Button) | Embedded C · PIC18 · MPLAB X |
-| **[On-Demand Traffic Light](https://github.com/MohamedBreya/On-demand-traffic-light-control)** | Pedestrian-triggered traffic light controller using external interrupts and timers, layered APP / ECUAL / MCAL | Embedded C · AVR |
-| **[Payment Application](https://github.com/MohamedBreya/Payment-Application-)** | ATM / card payment simulation split into Card, Terminal and Server modules | C · CMake |
-| **[Knife Hit](https://github.com/MohamedBreya/Knife-Hit)** | Clone of the Knife Hit mobile game with 2D rendering and win / lose screens | Python · PyOpenGL · Pygame |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ PIC18F4620 Drivers</h3>
+<p>Layered driver library — <b>MCAL</b> (GPIO, ADC, Timers, CCP, USART, I2C, EEPROM, Interrupts) and <b>ECU</b> (LCD, Keypad, 7-Segment, Motor, Relay).</p>
+<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/PIC18-EE2223?style=flat-square&logo=microchip&logoColor=white" alt="PIC18"/></p><br/><a href="https://github.com/MohamedBreya/PIC18F4620"><sub>🔗 View repo</sub></a>
+</td>
+<td width="50%" valign="top">
+<h3>🚦 On-Demand Traffic Light</h3>
+<p>Pedestrian-triggered traffic light using <b>external interrupts and timers</b>, layered APP / ECUAL / MCAL.</p>
+<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/AVR-EE2223?style=flat-square" alt="AVR"/></p><br/><a href="https://github.com/MohamedBreya/On-demand-traffic-light-control"><sub>🔗 View repo</sub></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💳 Payment Application</h3>
+<p>ATM / card payment simulation split into <b>Card, Terminal and Server</b> modules.</p>
+<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake"/></p><br/><a href="https://github.com/MohamedBreya/Payment-Application-"><sub>🔗 View repo</sub></a>
+</td>
+<td width="50%" valign="top">
+<h3>🔪 Knife Hit</h3>
+<p>Clone of the Knife Hit mobile game with 2D rendering and win / lose screens.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL"/></p><br/><a href="https://github.com/MohamedBreya/Knife-Hit"><sub>🔗 View repo</sub></a>
+</td>
+</tr>
+</table>
 
 </details>
 
