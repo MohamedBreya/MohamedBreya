@@ -18,7 +18,7 @@
 
 I'm a full-stack engineer who builds **production business systems end to end**: REST APIs, admin dashboards, authentication, integrations, and the infrastructure to run them.
 
-- 🔭 Currently building SaaS platforms at **MegaDevelopment** — e-invoicing, student transport, scheduling and clinic systems
+- 🔭 Currently building SaaS platforms at **MegaDevelopment** — e-invoicing, student transport, pharma distribution, scheduling, recruitment and clinic systems
 - ⚙️ Backend with **Java 21 / Spring Boot 3** and **C# / ASP.NET Core**
 - 🎨 Frontend with **Angular** and TypeScript, fully bilingual (Arabic RTL / English LTR)
 - 🔐 Auth & ops with **Keycloak**, **Docker** and **OpenTelemetry**
@@ -69,23 +69,39 @@ I'm a full-stack engineer who builds **production business systems end to end**:
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>💊 Veterinary Pharma Distribution</h3>
+<p>Built the system from scratch: products & batches, <b>warehouses and stock movements</b>, orders, dispatch, sales reps, collections, returns and offline sync.</p>
+<p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/></p>
+</td>
+<td width="50%" valign="top">
 <h3>💬 WhatsApp Gateway</h3>
 <p>Self-hosted <b>multi-tenant</b> WhatsApp service serving several backends with isolated sessions; Evolution API provider behind a feature flag, covered by contract tests.</p>
 <p><img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>🏫 School Scheduling System</h3>
 <p>Classes, teachers, subjects and <b>weekly schedules</b> with archiving & soft delete, Keycloak SSO and OpenAPI docs.</p>
 <p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>🩺 Diabetes Clinic Backend</h3>
 <p>Patients, doctors, visits, <b>medical records & prescriptions</b>, with audited history and Excel export.</p>
 <p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/></p>
 </td>
-<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏢 Center & Booking Management</h3>
+<p>Bookings, memberships, recurring sessions, price plans and installments. I worked on the <b>domain model</b> (groups, lectures, payments, time slots) and <b>Keycloak OAuth2</b> security.</p>
+<p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/> <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧑‍💼 Interview Management System</h3>
+<p>Recruitment platform for jobs, applicants and interview scheduling. I built <b>application filtering by stage with pagination</b> and partial project updates with file validation.</p>
+<p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/></p>
+</td>
 </tr>
 </table>
 
